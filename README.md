@@ -60,7 +60,7 @@
 
 - You Can Change the language of the products.
 
-  <img height="450" src="/screenshots/lang1.png"> &nbsp; &nbsp; <img height="450" src="/screenshots/lang2.png"> &nbsp; &nbsp; <img height="450" src="/screenshots/lang3.png"> &nbsp; &nbsp; <img height="450" src="/screenshots/lang4.png">
+  <img height="450" src="/screenshots/lang1.png"> &nbsp; &nbsp; <img height="450" src="/screenshots/lang2.png"> &nbsp; &nbsp; <img height="450" src="/screenshots/lang3.png"> &nbsp;
 
 - Finally, It's **responsive**!
 
